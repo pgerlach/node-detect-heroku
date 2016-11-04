@@ -1,0 +1,22 @@
+{
+  "name": "node-detect-heroku",
+  "version": "1.0.0",
+  "description": "(extremely) simple node module to detect if we're running on Heroku or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgerlach/node-detect-heroku.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Pierre-Rudolf Gerlach <pgerlach@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/pgerlach/node-detect-heroku/issues"
+  },
+  "homepage": "https://github.com/pgerlach/node-detect-heroku#readme"
+}
